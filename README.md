@@ -35,11 +35,7 @@ The objective was to transform raw data into actionable insights that support da
 
 ---
 
-## 📂 How to Use This Project
-1. Download the Excel file from this repository.
-2. Review the structured tables, data models, and pivot reports.
-3. Explore key metrics, graphs, and trends.
-4. Apply these methods to your own datasets to gain deeper insights.
+## 📂 [Download the full project report (PDF)](AtliQ%20Hardwares%20Sales%20&%20Finance%20Analytics.pdf)
 
 ---
 
